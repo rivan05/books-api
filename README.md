@@ -1,7 +1,3 @@
-Here's a **README** for your Express-based project that uses MongoDB for book management:
-
----
-
 # Book Management API
 
 This project provides a simple API for managing books in a MongoDB database. It allows users to perform CRUD (Create, Read, and Delete) operations on books, including retrieving all books, adding new books, and deleting books by their unique ID.
